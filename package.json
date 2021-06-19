@@ -1,0 +1,26 @@
+{
+  "name": "Consuming-API",
+  "version": "1.0.0",
+  "description": "- [] Criar um API <!-- iniciar um projeto >",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlunaKeth/Consuming-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlunaKeth/Consuming-API/issues"
+  },
+  "homepage": "https://github.com/AlunaKeth/Consuming-API#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
